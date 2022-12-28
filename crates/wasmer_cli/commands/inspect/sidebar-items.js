@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Inspect","The options for the `wasmer validate` subcommand"]]});

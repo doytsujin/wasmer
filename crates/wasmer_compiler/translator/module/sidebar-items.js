@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["translate_module","Translate a sequence of bytes forming a valid Wasm binary into a parsed ModuleInfo `ModuleTranslationState`."]]});

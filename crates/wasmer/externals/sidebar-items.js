@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Extern","An `Extern` is the runtime representation of an entity that can be imported or exported."]],"mod":[["function",""],["global",""],["memory",""],["table",""]]});

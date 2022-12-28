@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["wasmer_parser_operator_t",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["DirectiveError","A Directive Error"],["DirectiveErrors","A structure holding the list of all executed directives"]]});

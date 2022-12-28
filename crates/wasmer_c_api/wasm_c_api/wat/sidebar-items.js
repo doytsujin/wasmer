@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["wat2wasm","Parses in-memory bytes as either the WAT format, or a binary Wasm module. This is wasmer-specific."]]});

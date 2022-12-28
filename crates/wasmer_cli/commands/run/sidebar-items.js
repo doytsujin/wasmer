@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["wasi",""]],"struct":[["Run","The options for the `wasmer run` subcommand"]]});

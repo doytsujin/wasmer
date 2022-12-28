@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["LLVMCompiler","A compiler that compiles a WebAssembly module with LLVM, translating the Wasm to LLVM IR, optimizing it and then translating to assembly."],["ShortNames",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["args",""],["assert_return",""],["assert_stderr",""],["assert_stdout",""],["envs",""],["fake_i64_const",""],["map_dirs",""],["preopens",""],["stdin",""],["temp_dirs",""],["wasi_test",""]]});

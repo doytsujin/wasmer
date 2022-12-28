@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Cache","The options for the `wasmer cache` subcommand"]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["CFG_TARGET_ARCH",""],["CFG_TARGET_ENV",""],["CFG_TARGET_OS",""]],"struct":[["IgnorePattern",""],["Ignores",""]]});
