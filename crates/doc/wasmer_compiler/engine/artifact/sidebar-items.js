@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"constant":[["WASMER_METADATA_SYMBOL",""]],"struct":[["Artifact","A compiled wasm module, ready to be instantiated."]],"type":[["PrefixerFn",""]]};
+window.SIDEBAR_ITEMS = {"constant":["WORD_SIZE"],"enum":["ArtifactBuildVariant","DataInitializerLocationVariant","OwnedDataInitializerVariant"],"fn":["to_compile_error"],"static":["NEXT_ID"],"struct":["AllocatedArtifact","Artifact","ArtifactId"]};
